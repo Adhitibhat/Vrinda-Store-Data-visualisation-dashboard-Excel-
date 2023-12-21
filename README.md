@@ -1,7 +1,12 @@
 # Vrinda-Store-Data-Visualisation-Dashboard-Excel-
 
 ## Description:
-This Excel project showcases a methodical approach to cleaning, processing, and analyzing data. It involves rectifying errors, categorizing age groups, and extracting meaningful insights. Utilizing Pivot Tables and charts, the project unveils trends in sales, gender contributions, and state-wise performances. The report translates this huge data into actionable insights, recommending targeted strategies for effective decision-making. T
+This Excel project showcases a methodical approach to cleaning, processing, and analyzing data. It involves rectifying errors, categorizing age groups, and extracting meaningful insights. Utilizing Pivot Tables and charts, the project unveils trends in sales, gender contributions, and state-wise performances. The report translates this huge data into actionable insights, recommending targeted strategies for effective decision-making. 
+
+## Project_Files:
+Project Presentation : https://docs.google.com/presentation/d/1C__lhrWPEjtf0Suyu-kXlPjYmHCSx6kO/edit?usp=sharing&ouid=104970154317054426867&rtpof=true&sd=true
+
+Excel File : https://docs.google.com/spreadsheets/d/1vXk3zwlR7f2cTvj2HcWatMnP2wkDXLMH/edit?usp=sharing&ouid=104970154317054426867&rtpof=true&sd=true
 
 ### Data Cleaning:
 
